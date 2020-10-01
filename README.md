@@ -9,10 +9,10 @@ AppWarp client SDK JAR files for Android.
 
 
 
-Sample
+Sample////same........
 ========
-The given samples shows you how to set up your eclipse project to include the AppWarp 
+The given samples shows you know how to set up your eclipse project to include the AppWarp 
 SDK Jar file. It illustrates very basic connection/joining rooms etc. as well as Update and Chat APIs.
 
-Please update the call to WarpClient initialize with the Api and Secret Key pair you
+Please update the call**** to WarpClient initialize with the Api and Secret Key pair you
 received when registering.
